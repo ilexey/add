@@ -1,24 +1,7 @@
-body {
-    background-color: whitesmoke;
-}
-
-div {
-    width: 245px;
-    margin-left: auto;
-    margin-right: auto;
+.container {
     margin-top: 250px;
-}
-
-button {
-    background-color: red;
-    font-size: 300%;
-    padding: 10px;
-    border: black solid 3px;
-    border-radius: 10px;
 }
 
 p {
     padding-top: 30px;
-    font-size: 200%;
-    text-align: center;
 }
